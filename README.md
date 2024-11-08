@@ -1,4 +1,4 @@
 # GitPractice
-first step
+<h1>first step</h1>
 <br>
-<h1>Second Step to edit</h1>
+<h3>Second Step to edit</h3>
